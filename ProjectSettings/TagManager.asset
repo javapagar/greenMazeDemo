@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Attack
+  - Bush
+  - Ground
+  - Arma
+  - Coin
+  - ReStartArea
+  - KeyFloor
+  - EndDemo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: SueloFondo
+    uniqueID: 1181862001
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bush
+    uniqueID: 2750159553
+    locked: 0
+  - name: player
+    uniqueID: 58346973
+    locked: 0
+  - name: TopVision
+    uniqueID: 1073941443
+    locked: 0
